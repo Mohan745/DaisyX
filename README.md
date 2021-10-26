@@ -1,4 +1,5 @@
-
+#iam 
+[![PyLint](https://github.com/TeamDaisyX/DaisyX/actions/workflows/pylint.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/TeamDaisyX/DaisyX/actions/workflows/pylint.yml)
 <h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
 
 ## Unmaintained. The new repo of @DaisyXbot is private. 
