@@ -16,6 +16,9 @@
 - Not maintained
 - Older version of Daisy [NEW ONE CLOSED SOURCE]
 - Not compatible with latest updates of requirements
+
+
+[![PyLint](https://github.com/TeamDaisyX/DaisyX/actions/workflows/pylint.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/TeamDaisyX/DaisyX/actions/workflows/pylint.yml)
 - Archived
 
 
